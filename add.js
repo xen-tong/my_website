@@ -1,0 +1,1 @@
+alert('Do You Want Continue To This Site??');

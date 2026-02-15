@@ -1,0 +1,1 @@
+alert('Please Maintain Your Internet Connecttion To This Site!!')
